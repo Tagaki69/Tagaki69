@@ -1,6 +1,8 @@
 
 ![Prop 7](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=280&section=header&text=Tagaki&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Student%20@%2042%20Lyon&descAlignY=62)
 
+# 🔥 Enzo
+
 > Auto-entrepreneur • Étudiant à 42 Lyon • Dev, IA & automatisation
 
 ---
