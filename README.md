@@ -1,5 +1,5 @@
 
-![Prop 7](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=280&section=header&text=Tagaki&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Student%20@%2042%20Lyon&descAlignY=62)
+![Design sans titre](https://github.com/user-attachments/assets/65fc3098-09bf-40f5-babd-55d203f6d84f)
 
 # 🔥 Enzo
 
