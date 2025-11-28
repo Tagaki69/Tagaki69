@@ -1,5 +1,4 @@
-
-![Design sans titre](https://github.com/user-attachments/assets/65fc3098-09bf-40f5-babd-55d203f6d84f)
+![logo tagaki (1) (1)](https://github.com/user-attachments/assets/8c0050eb-cdea-428f-900a-9248c5632773)
 
 # 🔥 Enzo
 
