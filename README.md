@@ -71,7 +71,7 @@
 | Projet         | Description                      | Note    | État |
 | ------------- | -------------------------------- | ------- | ---- |
 | **Libft**     | Ma première bibliothèque C       | 125/100 | ✅   |
-| **ft_printf** | Réécriture de `printf`           | En cours| 🚧   |
+| **ft_printf** | Réécriture de `printf`           | 100/100 | ✅   |
 | **Get_Next_Line** | Lecture de fichier optimisée | À venir | 🔜   |
 | **Born2beroot**   | Administration système / VM  | À venir | 🔜   |
 
