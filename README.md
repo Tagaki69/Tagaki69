@@ -72,7 +72,7 @@
 | ------------- | -------------------------------- | ------- | ---- |
 | **Libft**     | Ma première bibliothèque C       | 125/100 | ✅   |
 | **ft_printf** | Réécriture de `printf`           | 100/100 | ✅   |
-| **Get_Next_Line** | Lecture de fichier optimisée | À venir | 🔜   |
+| **Get_Next_Line** | Lecture de fichier optimisée | 125/100 | ✅   |
 | **Born2beroot**   | Administration système / VM  | À venir | 🔜   |
 
 ---
