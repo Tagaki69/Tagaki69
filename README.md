@@ -75,7 +75,14 @@
 | **Get_Next_Line** | Lecture de fichier optimisée | 125/100 | ✅   |
 | **Born2beroot**   | Administration système / VM  | 100/100 | ✅  |
 | **Pussh_Swap**   | Tri de pile optimisé          | 125/100 | ✅   |
-| **python module 0**   | Fonctions Python basiques  | A venir | 🔜   |
+| **python module 0**   | Fonctions Python basiques  | 100/100 | ✅  |
+| **python module 1**   | Fonctions Python basiques  | 100/100 | ✅  |
+| **python module 2**   | Fonctions Python basiques  | 100/100 | ✅  |
+| **python module 3**   | Fonctions Python basiques  | 100/100 | ✅  |
+| **python module 4**   | Fonctions Python basiques  | A venir | 🔜  |
+| **python module 5**   | Fonctions Python basiques  | A venir  | 🔜  |
+| **python module 6**   | Fonctions Python basiques  | A venir  | 🔜  |
+| **python module 7**   | Fonctions Python basiques  | A venir | 🔜   |
 
 ---
 
