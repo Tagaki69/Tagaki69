@@ -76,13 +76,12 @@
 | **Born2beroot**   | Administration système / VM  | 100/100 | ✅  |
 | **Pussh_Swap**   | Tri de pile optimisé          | 125/100 | ✅   |
 | **python module 0**   | Fonctions Python basiques  | 100/100 | ✅  |
-| **python module 1**   | Fonctions Python basiques  | 100/100 | ✅  |
-| **python module 2**   | Fonctions Python basiques  | 100/100 | ✅  |
-| **python module 3**   | Fonctions Python basiques  | 100/100 | ✅  |
-| **python module 4**   | Fonctions Python basiques  | A venir | 🔜  |
-| **python module 5**   | Fonctions Python basiques  | A venir  | 🔜  |
-| **python module 6**   | Fonctions Python basiques  | A venir  | 🔜  |
-| **python module 7**   | Fonctions Python basiques  | A venir | 🔜   |
+| **python module 1**   | Introduction à la POO  | 100/100 | ✅  |
+| **python module 2**   | Exceptions & Erreurs  | 100/100 | ✅  |
+| **python module 3**   | Collections (listes, dicts)  | 100/100 | ✅  |
+| **python module 4**   | Fichiers & I/O  | A venir | 🔜  |
+| **python module 5**   | Classes abstraites  | A venir  | 🔜  |
+| **python module 6**   | Imports  | A venir  | 🔜  |
 
 ---
 
