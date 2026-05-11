@@ -20,98 +20,75 @@
 ## 🧰 Tech Stack
 
 ### Langages
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Automation, Backend & IA
-
 ![Make](https://img.shields.io/badge/Make.com-593D88?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Infra & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
-
-### Outils & Organisation
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 🚀 Ce que je fais en ce moment
+## 🚀 Projets Highlights
 
-- 🔄 Automatisations pour :
-  - classer et traiter les mails
-  - analyser, renommer et ranger des documents
-  - connecter Notion / Airtable / OneDrive / réseaux sociaux
-- 🤖 Outils IA pour :
-  - rédiger des réponses mails cohérentes
-  - générer du contenu pour les réseaux sociaux
-  - guider des utilisateurs dans leurs démarches
-- 🏋️ Projet perso autour de la muscu et de la course (programmes, suivi, stats)
+### 🐍 Python Pool (Modules 00-10)
+*Maîtrise complète de l'écosystème Python, de l'impératif au fonctionnel.*
+
+- **🎯 Objectif** : 11 modules intensifs couvrant la POO avancée, la gestion de données et le déploiement.
+- **⚡ Skills clés** :
+  - **Architecture** : Design Patterns (Factory, Strategy), Interfaces (ABC), Protocoles.
+  - **Data & Robustesse** : Parsing complexe, Validation de données (Pydantic), Gestion d'exceptions.
+  - **DevOps** : Environnements isolés (Poetry, venv), Variables d'environnement (.env).
+  - **Fonctionnel** : Décorateurs, Closures, Générateurs, Functools.
+- **🏆 Note** : **100/100** sur l'ensemble des modules ✨
+
+### 📝 ft_printf
+*Réécriture complète de la fonction printf en C.*
+- **🎯 Objectif** : Gestion des arguments variadiques et parsing de format.
+- **🏆 Note** : **100/100** ✨
 
 ---
 
 ## 🎓 Cursus 42
 
-| Projet         | Description                      | Note    | État |
-| ------------- | -------------------------------- | ------- | ---- |
-| **Libft**     | Ma première bibliothèque C       | 125/100 | ✅   |
-| **ft_printf** | Réécriture de `printf`           | 100/100 | ✅   |
-| **Get_Next_Line** | Lecture de fichier optimisée | 125/100 | ✅   |
-| **Born2beroot**   | Administration système / VM  | 100/100 | ✅  |
-| **Pussh_Swap**   | Tri de pile optimisé          | 125/100 | ✅   |
-| **python module 0**   | Fonctions Python basiques  | 100/100 | ✅  |
-| **python module 1**   | Introduction à la POO  | 100/100 | ✅  |
-| **python module 2**   | Exceptions & Erreurs  | 100/100 | ✅  |
-| **python module 3**   | Collections (listes, dicts)  | 100/100 | ✅  |
-| **python module 4**   | Fichiers & I/O  | A venir | 🔜  |
-| **python module 5**   | Classes abstraites  | A venir  | 🔜  |
-| **python module 6**   | Imports  | A venir  | 🔜  |
+| Projet         | Description                        | Note    | État |
+| :------------ | :--------------------------------- | :------ | :--- |
+| **Libft** | Ma première bibliothèque C         | 125/100 | ✅   |
+| **ft_printf** | Réécriture de `printf`             | 100/100 | ✅   |
+| **Get_Next_Line** | Lecture de fichier optimisée    | 125/100 | ✅   |
+| **Born2beroot** | Administration système / VM       | 100/100 | ✅   |
+| **Pussh_Swap** | Tri de pile optimisé               | 125/100 | ✅   |
+| **Python Modules** | **Piscine Python (00 à 10)** | **100/100** | ✅ |
+| **A-Maze-Ing** | Creation et resolution d'un labyrinthe      | 120/100 | ✅   |
 
 ---
 
 ## 📊 Stats GitHub
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tagaki69&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Stats de Tagaki69" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tagaki69&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" alt="Langages les plus utilisés" />
+</div>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tagaki69&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tagaki69&layout=compact&theme=radical" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tagaki69&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🌐 Me contacter
 
-<div align="left">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/enzolarue)
 [![Mail](https://img.shields.io/badge/Email-enzo.larue74%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.larue74@gmail.com)
-
-</div>
 
 ---
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=Tagaki69&color=blueviolet&style=flat-square&label=Profile+Views" />
-
   <br/><br/>
   <i>« Tu ne contrôles pas le résultat, mais tu contrôles l’effort. »</i>
-
 </div>
