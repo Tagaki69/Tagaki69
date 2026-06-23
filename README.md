@@ -63,6 +63,7 @@
 | **Pussh_Swap** | Tri de pile optimisé               | 125/100 | ✅   |
 | **Python Modules** | **Piscine Python (00 à 10)** | **100/100** | ✅ |
 | **A-Maze-Ing** | Creation et resolution d'un labyrinthe      | 120/100 | ✅   |
+| **Fly-in** | Simulation visuelle de drones      | 100/100 | ✅   |
 
 ---
 
